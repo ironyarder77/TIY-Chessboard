@@ -1,0 +1,21 @@
+.board {
+   border:100px solid #FFFFEB ;
+   border-collapse:collapse;
+   padding:5px;
+}
+.board th {
+   border:10px solid lightslategrey;
+   padding:5px;
+}
+.board td {
+   border:0px
+   padding:5px;
+width: 75px;
+height: 75px;
+}
+.aqua {
+background-color: aquamarine;
+}
+.sky {
+background-color: lightskyblue;
+}

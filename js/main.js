@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pawn=bp,wp
 rook=br,wr
 knight=bk,wk
@@ -220,3 +221,6 @@ applyMove: function(from, to){
 
 // You are not expected to understand anything below this line...
 })(window || module && module.exports || this);
+=======
+This will house any experimental etc. JavaScript related to the Chessboard exercise
+>>>>>>> 88d0678a2ec044a7b8596d508ee27a4c96f2a67e

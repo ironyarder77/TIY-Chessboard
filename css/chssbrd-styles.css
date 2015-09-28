@@ -1,0 +1,21 @@
+.board {
+   border:100px solid #FFFFEB ;
+   border-collapse:collapse;
+   padding:1px;
+}
+.board th {
+   border:5px solid lightslategrey;
+   padding:5px;
+}
+.board td {
+   border:0px
+   padding:5px;
+width: 75px;
+height: 75px;
+}
+.red {
+background-color: red;
+}
+.black{
+background-color: black;
+}

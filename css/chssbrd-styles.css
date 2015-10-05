@@ -9,6 +9,7 @@
    border-right: 25px grey;
   border-bottom: 25px grey;
  }
+ /*WAS ABLE TO CAP OFF THE ROW AND COLUMN MARKERS!!!!*/
 .board th {
    border:5px solid lightslategrey;
    padding:5px;

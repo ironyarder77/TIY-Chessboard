@@ -1,21 +1,92 @@
+//this includes the pieces (their unicode tags)
+here is the url for that source site:
+http://nealchester.com/special-characters/#chess
+
 .board {
-   border:100px solid #FFFFEB ;
+   border:25px solid White;
    border-collapse:collapse;
-   padding:5px;
-}
+   padding:10px;
+   border-top:25px grey;
+   border-left:25px grey;
+   border-right: 25px grey;
+  border-bottom: 25px grey;
+ }
 .board th {
-   border:10px solid lightslategrey;
+   border:5px solid lightslategrey;
    padding:5px;
-}
+ }
+
 .board td {
-   border:0px
+   border:5px
    padding:5px;
 width: 75px;
 height: 75px;
-}
-.aqua {
-background-color: aquamarine;
-}
-.sky {
-background-color: lightskyblue;
-}
+text-align: center;
+font-size: 2em;
+font-weight: bolder;
+ }
+
+
+.Yellow {
+background-color:Yellow;
+ }
+
+.grey{
+background-color: grey;
+ }
+
+.br::before{
+  content: "\265C";
+ document.getElementById("br").style.property=new style;
+ new style=position:
+  }
+
+.bk::before{
+  content: "\265E";
+  }
+
+.bb::before{
+  content: "\265D";
+  }
+
+.bK::before{
+  content: "\265A";
+  position: relative;
+  }
+
+.bQ::before{
+  content: "\265B";
+  padding;
+  }
+
+.bp::before{
+  content: "\265F";
+  }
+
+.wp::before{
+  content: "\2659";
+  }
+
+.wr::before{
+  content: "\2656";
+  }
+
+.wk::before{
+  content: "\2658";
+  }
+
+.wb::before{
+  content: "\2657";
+  }
+
+.wQ::before{
+  content: "\2655";
+  }
+
+.wK::before{
+  content: "\2654";
+  }
+
+.bp::before{
+  content: "\265F";
+  }
